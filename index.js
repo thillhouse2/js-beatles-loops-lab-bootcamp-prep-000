@@ -21,6 +21,6 @@ function iLoveTheBeatles(loopX){
   var i = 0;
   do{
     newArray[i] = "I love the Beatles!";
-  } while (loopX < 15 && i != loopx);
+  } while (loopX < 15 && i !== loopx);
   return newArray;
 }
