@@ -20,7 +20,7 @@ function iLoveTheBeatles(loopX){
   var newArray = [];
   var i = 0;
   do{
-    newArray[i] = "I love the Beatles!"
-  } while (loopX < 15)
+    newArray[i] = "I love the Beatles!";
+  } while (loopX < 15 && i != loopx);
   return newArray;
 }
