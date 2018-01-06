@@ -16,3 +16,10 @@ function johnLennonFacts(facts){
   return newArray;
 }
 
+function iLoveTheBeatles(loopX){
+  var newArray = [];
+  do{
+    
+  }
+  return newArray;
+}
