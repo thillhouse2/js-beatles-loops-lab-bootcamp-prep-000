@@ -22,6 +22,6 @@ function iLoveTheBeatles(loopX){
   do{
     newArray[i] = "I love the Beatles!";
     i++;
-  } while (loopX < 15 || i < loopX);
+  } while (loopX < 15 && i < loopX);
   return newArray;
 }
