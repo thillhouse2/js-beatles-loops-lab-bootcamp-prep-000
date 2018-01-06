@@ -20,6 +20,6 @@ function iLoveTheBeatles(loopX){
   var newArray = [];
   do{
     
-  }
+  } while 
   return newArray;
 }
